@@ -8,7 +8,9 @@ I hold a master in Applied Economics from University of Massachusetts Boston and
 
 Previously, I worked at FUNIDES, a Nicaraguan think tank, and at UMB where I worked on labor markets, impact evaluation, education, and social protection. 
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://github.com/CristinaZapata/MagalySaenz-portfolio/blob/master/Magaly_photo.jpg)
+
+[GitHub](http://github.com)
 
 ### Markdown
 
